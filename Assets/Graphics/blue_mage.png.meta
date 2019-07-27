@@ -1,0 +1,2928 @@
+fileFormatVersion: 2
+guid: 0901712aa2b3ccc459acebb747d16aee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_mage_0
+    21300002: blue_mage_1
+    21300004: blue_mage_2
+    21300006: blue_mage_3
+    21300008: blue_mage_4
+    21300010: blue_mage_5
+    21300012: blue_mage_6
+    21300014: blue_mage_7
+    21300016: blue_mage_8
+    21300018: blue_mage_9
+    21300020: blue_mage_10
+    21300022: blue_mage_11
+    21300024: blue_mage_12
+    21300026: blue_mage_13
+    21300028: blue_mage_14
+    21300030: blue_mage_15
+    21300032: blue_mage_16
+    21300034: blue_mage_17
+    21300036: blue_mage_18
+    21300038: blue_mage_19
+    21300040: blue_mage_20
+    21300042: blue_mage_21
+    21300044: blue_mage_22
+    21300046: blue_mage_23
+    21300048: blue_mage_24
+    21300050: blue_mage_25
+    21300052: blue_mage_26
+    21300054: blue_mage_27
+    21300056: blue_mage_28
+    21300058: blue_mage_29
+    21300060: blue_mage_30
+    21300062: blue_mage_31
+    21300064: blue_mage_32
+    21300066: blue_mage_33
+    21300068: blue_mage_34
+    21300070: blue_mage_35
+    21300072: blue_mage_36
+    21300074: blue_mage_37
+    21300076: blue_mage_38
+    21300078: blue_mage_39
+    21300080: blue_mage_40
+    21300082: blue_mage_41
+    21300084: blue_mage_42
+    21300086: blue_mage_43
+    21300088: blue_mage_44
+    21300090: blue_mage_45
+    21300092: blue_mage_46
+    21300094: blue_mage_47
+    21300096: blue_mage_48
+    21300098: blue_mage_49
+    21300100: blue_mage_50
+    21300102: blue_mage_51
+    21300104: blue_mage_52
+    21300106: blue_mage_53
+    21300108: blue_mage_54
+    21300110: blue_mage_55
+    21300112: blue_mage_56
+    21300114: blue_mage_57
+    21300116: blue_mage_58
+    21300118: blue_mage_59
+    21300120: blue_mage_60
+    21300122: blue_mage_61
+    21300124: blue_mage_62
+    21300126: blue_mage_63
+    21300128: blue_mage_64
+    21300130: blue_mage_65
+    21300132: blue_mage_66
+    21300134: blue_mage_67
+    21300136: blue_mage_68
+    21300138: blue_mage_69
+    21300140: blue_mage_70
+    21300142: blue_mage_71
+    21300144: blue_mage_72
+    21300146: blue_mage_73
+    21300148: blue_mage_74
+    21300150: blue_mage_75
+    21300152: blue_mage_76
+    21300154: blue_mage_77
+    21300156: blue_mage_78
+    21300158: blue_mage_79
+    21300160: blue_mage_80
+    21300162: blue_mage_81
+    21300164: blue_mage_82
+    21300166: blue_mage_83
+    21300168: blue_mage_84
+    21300170: blue_mage_85
+    21300172: blue_mage_86
+    21300174: blue_mage_87
+    21300176: blue_mage_88
+    21300178: blue_mage_89
+    21300180: blue_mage_90
+    21300182: blue_mage_91
+    21300184: blue_mage_92
+    21300186: blue_mage_93
+    21300188: blue_mage_94
+    21300190: blue_mage_95
+    21300192: blue_mage_96
+    21300194: blue_mage_97
+    21300196: blue_mage_98
+    21300198: blue_mage_99
+    21300200: blue_mage_100
+    21300202: blue_mage_101
+    21300204: blue_mage_102
+    21300206: blue_mage_103
+    21300208: blue_mage_104
+    21300210: blue_mage_105
+    21300212: blue_mage_106
+    21300214: blue_mage_107
+    21300216: blue_mage_108
+    21300218: blue_mage_109
+    21300220: blue_mage_110
+    21300222: blue_mage_111
+    21300224: blue_mage_112
+    21300226: blue_mage_113
+    21300228: blue_mage_114
+    21300230: blue_mage_115
+    21300232: blue_mage_116
+    21300234: blue_mage_117
+    21300236: blue_mage_118
+    21300238: blue_mage_119
+    21300240: blue_mage_120
+    21300242: blue_mage_121
+    21300244: blue_mage_122
+    21300246: blue_mage_123
+    21300248: blue_mage_124
+    21300250: blue_mage_125
+    21300252: blue_mage_126
+    21300254: blue_mage_127
+    21300256: blue_mage_128
+    21300258: blue_mage_129
+    21300260: blue_mage_130
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_mage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 402
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb23255325052e04ca816ce99d66fce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1124
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f90a95f3a1a348ab8dace9fd72a5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1122
+        width: 212
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf208f186c4250479063ad8945d11ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_3
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1122
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83523ea054d11df4d858a63792426756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1122
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7166671f86c7ba49a8a5779eced41d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1122
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c868916012c06149bd51f649e531825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_6
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1122
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16d29d0ed0100c45ae3fc966eac8107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1122
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1020a7dfc21a9e54087862b84fe98324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_8
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1122
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0992f60aefb5842b24c3bf6abf08d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1120
+        width: 440
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938219f9099680a47b875101a8c3eb50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1120
+        width: 369
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df64668f9fa619439b199ee6d9fc2c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_11
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1118
+        width: 192
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e991fefab84ef041a79da05b742e55a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_12
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1118
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538803c0c35bd041b8a3ee1a626aba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_13
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1118
+        width: 142
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3260da531a932419e18c64ad6469aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_14
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1116
+        width: 309
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08694acd7ecd6e8459ba1ef70890a536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_15
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1116
+        width: 331
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37e5c4f88997ec418a47df55d6f40ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_16
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 993
+        width: 262
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea83229960b77445a0ced96bba5bcc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_17
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1112
+        width: 677
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab46b79a9db675a44aecf03e7f2273b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_18
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 1112
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4f97fbd89da848a6fd89744beea0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1009
+        width: 245
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0738224c8917ba74da7db3fa0a9c6eba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1007
+        width: 208
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c424bfa4ff9df3458ff47be08f0e9ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1007
+        width: 225
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb4107b6162b54ea9ad48434256cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1007
+        width: 171
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b71c9458baf28409c3865f408213ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1007
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24adbf66d8978144b179e5fc61c50a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_24
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1007
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee094440b566304418ec7d2dd72d7f3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_25
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1007
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039936261b4b6754f98decb2b6039356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_26
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1007
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768426fb5a737454db09f687761400fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_27
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1005
+        width: 295
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e353eedd67b7940b1b3d47f66af4cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_28
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1003
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e7ecc72c98ea4cb96b40d386e5cf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_29
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1001
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02488308d2e52c48ae057d84ddab673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_30
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1001
+        width: 260
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82c3098c5bc7b41b59364b142807d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_31
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 997
+        width: 420
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd0401f2d296fa47a0bae1675630724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_32
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 997
+        width: 266
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16f308adf1f0c944b1a3647f8b80e5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_33
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 995
+        width: 121
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59124752672099946a9a50042a7bb2d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_34
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 995
+        width: 159
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c223645e6de5a34fac55a97114f61a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_35
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 990
+        width: 156
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07c2a980bb11f4fb693c0e9e817fae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 402
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1db3ec4edb43c44cb33465122500ecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 803
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40783b272bf1b4fb0d9facb33585e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_38
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 801
+        width: 212
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50751bd9f0b7b6942b1111f9f2b2900d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_39
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 801
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a991ee04b9e79d84697646768603bc40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_40
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 801
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5001627f904f4c9d8a933242e741e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_41
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 801
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3da7a6b16437f54f996048c88a1effb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_42
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 801
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e3143d6696ba045ae5d8b157473cab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 801
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5f3e7f70066844be1a56ef9d7a2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_44
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 801
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bca94a39645fc46b11bbecfce0c7e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_45
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 799
+        width: 440
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133e81ae11314e14d9c886ea85606e8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 799
+        width: 369
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a81ca6319d5349bb7034c87447dab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_47
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 797
+        width: 192
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4cb2cd36378354fb1a65cc1fc492b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_48
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 797
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7750cf6030b904ba66ce673cb55616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_49
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 797
+        width: 142
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1d3b0573125254283bd6eaa3763e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_50
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 795
+        width: 640
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f55fa3600587c94bb87132115eb8071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_51
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 793
+        width: 262
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e7709bd1293b4ea28a01a229243ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_52
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 791
+        width: 677
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3544a2be6bec24faefeae1bf1f504f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_53
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 791
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e91ab5dc9a84946816a427d1fb73d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 245
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e8b73c4a29af4cb5e41584278d9ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 686
+        width: 208
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2eaadd179fc6f428621e043226d837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_56
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 686
+        width: 225
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e335840a5040a4594fc81bfa5788a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_57
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 686
+        width: 171
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c44a2db6faa494c8d77d03d79226b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_58
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 686
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c917184e1c79a0b4a80b840cfff96f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_59
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 686
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739eafd7eb62c1a4e8c76ba03e54a6df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_60
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 686
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5350fd7c3312fe49b18fa187aa9ad3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_61
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 686
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af83dcefd8eaf643ae0f28e3991099f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_62
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 684
+        width: 295
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cef108608f37d4a82b2ae8d35b2f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_63
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 682
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcdc98cc276eae498202f79ebbb021b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_64
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 680
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fcd2811ae9359429f628513df74c80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_65
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 680
+        width: 260
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd36d7abdb14a4c901c7d5321a79e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_66
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 677
+        width: 420
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b1e4a3b38081546bdf89ecdc368d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_67
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 677
+        width: 266
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d69765ac7a921428dc9d9dffcdd590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_68
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 675
+        width: 121
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5234636fa40f8c447a8d726851da3350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_69
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 673
+        width: 159
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e64a9191f4387498125cb04ce3f41d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_70
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 673
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804cf62c8e3d4841a10882717045d4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_71
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 669
+        width: 156
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a720eb69dc7e46b2175bb6232a40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 402
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.635009, y: -47.230465}
+        - {x: 10.691161, y: -37.50957}
+        - {x: 34.017334, y: -45.286285}
+        - {x: 37.905025, y: -48.5}
+        - {x: 57.343502, y: -48.5}
+        - {x: 72.89428, y: -41.39793}
+        - {x: 86.50121, y: -48.5}
+        - {x: 152.59203, y: -48.5}
+        - {x: 170.08665, y: -37.50957}
+        - {x: 181.74974, y: -48.5}
+        - {x: 201, y: -48.5}
+        - {x: 201, y: -2.5143557}
+        - {x: 197.30052, y: 5.262359}
+        - {x: 185.63744, y: 40.257576}
+        - {x: 175.9182, y: 48.5}
+        - {x: 152.59203, y: 48.5}
+        - {x: 144.81664, y: 48.03429}
+        - {x: 140.92894, y: 40.257576}
+        - {x: 142.87279, y: 20.815788}
+        - {x: 135.09741, y: 16.927431}
+        - {x: 125.37817, y: 9.150717}
+        - {x: 125.37817, y: 24.704145}
+        - {x: 121.49047, y: 30.536682}
+        - {x: 103.99584, y: 48.5}
+        - {x: 84.557365, y: 48.5}
+        - {x: 57.343502, y: 24.704145}
+        - {x: 55.399654, y: 13.039074}
+        - {x: 47.624264, y: 9.150717}
+        - {x: 37.905025, y: 40.257576}
+        - {x: 28.18579, y: 48.5}
+        - {x: -0.97192377, y: 48.5}
+        - {x: -6.8034663, y: 44.14593}
+        - {x: -22.354246, y: 11.094895}
+        - {x: -22.354246, y: -16.123606}
+        - {x: -26.241941, y: 9.150717}
+        - {x: -28.18579, y: 34.425037}
+        - {x: -39.848873, y: 36.369217}
+        - {x: -51.51196, y: 48.5}
+        - {x: -70.95043, y: 48.5}
+        - {x: -80.66967, y: 40.257576}
+        - {x: -96.22045, y: 18.87161}
+        - {x: -96.22045, y: -4.4585342}
+        - {x: -105.93969, y: -23.900322}
+        - {x: -121.49047, y: 3.3181803}
+        - {x: -121.49047, y: 26.648325}
+        - {x: -123.43432, y: 32.48086}
+        - {x: -144.81664, y: 48.5}
+        - {x: -162.31126, y: 48.5}
+        - {x: -173.97435, y: 36.369217}
+        - {x: -189.52513, y: 22.759968}
+        - {x: -187.58128, y: -0.5701769}
+        - {x: -201, y: -20.011963}
+        - {x: -201, y: -39.45375}
+        - {x: -189.52513, y: -48.5}
+        - {x: -172.0305, y: -47.230465}
+        - {x: -117.602776, y: -48.5}
+        - {x: -105.93969, y: -41.39793}
+        - {x: -92.332756, y: -48.5}
+        - {x: -32.073486, y: -48.5}
+        - {x: -26.241941, y: -47.230465}
+        - {x: -20.410398, y: -48.5}
+        - {x: 2.9157712, y: -48.5}
+      - - {x: 195.35667, y: 9.150717}
+        - {x: 199.24437, y: 5.262359}
+        - {x: 201, y: 5.262359}
+        - {x: 201, y: 18.87161}
+        - {x: 195.35667, y: 16.927431}
+      physicsShape: []
+      tessellationDetail: 0.32
+      bones: []
+      spriteID: 59a9aba172e62cd4b91651b4a7b05647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 504
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b3e34c5d7f34f47af5f588976808bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_74
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 502
+        width: 212
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ed1d903fea3b449b3c7d9a7da1ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_75
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 500
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a369c2deb8e9d149b91178245682b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_76
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 500
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c0e37c3279574ea42313a85c59f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_77
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 500
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e5463386efad642ae9a0f48b92afd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_78
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 502
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e3f21ef3f714a4c94eb34786933c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 500
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec619c08bc4dc4a8547b2b01ef83cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_80
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 500
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5a38e88f734a4e8de0b44506d89ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_81
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 498
+        width: 440
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7e10c327ec4ff41a9f591d8fe11bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_82
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 498
+        width: 369
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653f28af3605a57468c7a0e82b6625f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_83
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 498
+        width: 192
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178a09c4ab9cc714d94a0b07d6b49b2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_84
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 498
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1877819e2bfc24bb901d2118598ed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_85
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 496
+        width: 142
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a86ed5f8a9d5f40bca623bb9213f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_86
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 494
+        width: 640
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d14000743c7adc429277afb0c04b915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_87
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 492
+        width: 262
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3fdfb19932c2b46886f406747ef6b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_88
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 492
+        width: 677
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1437a72edc906a74a89ad1b96f20b556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_89
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 492
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92ec7e2ca334dd45affe7d423de62e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 245
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f8554fe25dd944da14719d1b4d3a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_91
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 385
+        width: 208
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf6c0a0b8b1b14ea52ce4615370e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_92
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 385
+        width: 225
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33a995788db0740b30bfc247df8134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_93
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 385
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb1e007c48c954aa63fced9e896ded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_94
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 387
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292dc3e9ef79c443818f9611c602a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_95
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 387
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43a2d56316d993499b1c239463697d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_96
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 385
+        width: 123
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c203b28e4f0a83d418d777383a2f9e90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_97
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 387
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df536e30b19efc4408b449a8ded22187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_98
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 383
+        width: 295
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef07de8d3673aa74d965cab9841c7ec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_99
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 381
+        width: 125
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a426e7442498bf4095d26aeaa050104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_100
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 381
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96019c8f5ec9d447953bdfb35bb2468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_101
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 379
+        width: 262
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d38047ffeefe80488907f20746681be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_102
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 377
+        width: 420
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb41a23abfc4a14b9a45017be8d2139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_103
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 375
+        width: 266
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddfcc88ed0de4a4dba4a17d8ac95cfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_104
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 375
+        width: 121
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a69099a5d00a4b9b174edc4f89ba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_105
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 373
+        width: 159
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee6e37c42bd504684ad6f2477bfd50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_106
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 371
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5901b867940d7954e9811608f56bd372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_107
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 367
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfd46a3c4560c4499db0cae04ade134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 210
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f245f40396a19ab499481b70dc022189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 165
+        width: 266
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbaaad8c54e7014d9a09570255a2fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_110
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 121
+        width: 156
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34460aba78ad8104a8720f4a0aa560b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_111
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 121
+        width: 153
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06faa5cf6929a4892548b5e0d7139d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_112
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 111
+        width: 156
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95fbf88c341e0b4599ab18fc0561ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_113
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 111
+        width: 153
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207c79ee6b29d474a85d180d10b66c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_114
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 109
+        width: 315
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43323bc633cf2bd41a856177ee30e6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_115
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 91
+        width: 154
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d820df0302066439a5cd149fee7a2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_116
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 89
+        width: 153
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10963a30dabd14a8f7be24c3ce14fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_117
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 51
+        width: 144
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bf18cf542eb4f42ab55b5cb4c4954a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_118
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 51
+        width: 142
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4001240186b8b4b9347235314ab3d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_119
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 163
+        width: 142
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a401fc73c59e5444e98da65157b36b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_120
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 161
+        width: 134
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090965ed3d033048995d3892e1a5fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_121
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 194
+        width: 140
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119293fa863269e429c888b2291671d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_122
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 187
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df42ef35267dad54aa21d2990239cd69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_123
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 227
+        width: 109
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b121175f7a7b948997528048f185c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_124
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 212
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c5f5883384d1e44bedbdd30f1113f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_125
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 23
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcab2d612714ae4881b544a566053da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_126
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 23
+        width: 142
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e34e0fb24ac674abc397cca2394060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_127
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 14
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90badbf2ffd383b47949b703695c2ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_128
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 12
+        width: 140
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0224ffbbacaab148aa44677a999730f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_129
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 0
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce646406e72f648a6fa474ad4bf89c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_mage_130
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 0
+        width: 109
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d01618a78243479b906369a3fa4be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2ff12bb0220c4548aab4a3ec61598fe
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
