@@ -1,21 +1,44 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class PlayerMovement : MonoBehaviour
 {
-    const float MAX_SPEED = 4f;
-    const float MAX_RANGE = 1f;
+    const float MAX_RANGE = 3f;
+
+    public bool WASD;
+
+    private float dashCooldownTime = 1f;
+    private float fireCooldownTime = .33f;
+    private float nextDashTime = 0;
+    private float nextFireTime = 0;
+
+
+    public PlayerStatus status;
+
+    [Header("Unity Struff")]
+    public Image healthBar;
+    public Image manaBar;
+    [HideInInspector]
     public float horizontal;
+    [HideInInspector]
     public float vertical;
+    [HideInInspector]
     public float magnitude;
     public Rigidbody2D rb;
     public Animator animatorController;
-    public float velocity;
     public GameObject spell;
-    Vector3 destination;
+    public GameObject crossair;
+    [HideInInspector]
+    public Vector3 hitDestination;
+    [HideInInspector]
+    public Vector3 VectorToMouse;
 
-    Vector2 aux;
+
+
+    Vector3 dashDirection;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,56 +46,108 @@ public class PlayerMovement : MonoBehaviour
         rb.gravityScale = 0;
         rb.mass = 1f;
         rb.drag = 10f;
-        velocity = 20f;
     }
 
     // Update is called once per frame
     void Update()
     {
+        GetInputs();
+
+        if (nextDashTime < Time.time)
+            if (Input.GetMouseButtonDown(1))
+            {
+                Dash();
+                nextDashTime = Time.time + dashCooldownTime;
+            }
+
+        if (nextFireTime < Time.time)
+            if (Input.GetMouseButtonDown(0))
+            {
+                Shoot();
+                nextFireTime = Time.time + fireCooldownTime;
+            }
+
+
+    }
+
+    void GetInputs()
+    {
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
         animatorController.SetFloat("Horizontal", horizontal);
         animatorController.SetFloat("Vertical", vertical);
-        aux = new Vector2(horizontal, vertical);
-        magnitude = aux.magnitude;
+        dashDirection = new Vector3(horizontal, vertical, 0f);
+        magnitude = dashDirection.magnitude;
         animatorController.SetFloat("Magnitude", magnitude);
-        aux.Normalize();
+        dashDirection.Normalize();
 
-        if (Input.GetMouseButtonDown(1))
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        hitDestination = new Vector3(ray.origin.x, ray.origin.y, 0f);
+
+        VectorToMouse = (hitDestination - transform.position).normalized;
+        crossair.transform.localPosition = VectorToMouse;
+
+    }
+
+    void Dash()
+    {
+        if (status.mana > 50)
         {
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            destination = new Vector3(ray.origin.x, ray.origin.y, 0f);
-
-            if ((transform.position - destination).magnitude < MAX_RANGE)
+            status.mana -= 50f;
+            if (!WASD)
             {
-                transform.position = destination;
+                if ((transform.position - hitDestination).magnitude < MAX_RANGE)
+                {
+                    transform.position = hitDestination;
+                }
+                else
+                {
+                    transform.position += (hitDestination - transform.position).normalized * MAX_RANGE;
+                }
             }
             else
-            {
-                transform.position += (destination - transform.position).normalized * MAX_RANGE;
-            }
+                transform.position += dashDirection * MAX_RANGE;
         }
-        if (Input.GetMouseButtonDown(0))
+
+    }
+
+    void Shoot()
+    {
+        if (status.mana > 30)
         {
+            status.mana -= 30;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            destination = new Vector3(ray.origin.x, ray.origin.y, 0f);
-            GameObject ball = Instantiate(spell, transform.position,Quaternion.Euler(destination));
-            
-            Rigidbody2D rbBall = ball.GetComponent<Rigidbody2D>();
-            rbBall.velocity = 2 * (destination - transform.position).normalized;
-            ball.transform.rotation = Quaternion.Euler((destination - transform.position).normalized);
+            hitDestination = new Vector3(ray.origin.x, ray.origin.y, 0f);
+            GameObject fireball = Instantiate(spell, transform.position, Quaternion.identity);
+            fireball.GetComponent<Rigidbody2D>().velocity = new Vector2(VectorToMouse.x, VectorToMouse.y).normalized * 5f;
+            fireball.transform.Rotate(0f, 0f, Mathf.Atan2(VectorToMouse.y, VectorToMouse.x) * Mathf.Rad2Deg);
+            Destroy(fireball, 2f);
         }
-
-
-        }
-
-    
+    }
 
     void FixedUpdate()
     {
-        if (rb.velocity.magnitude < MAX_SPEED)
-            rb.velocity += aux * velocity * Time.fixedDeltaTime;
-        else
-            rb.velocity = aux * MAX_SPEED;
+        manaBar.fillAmount = status.mana / status.maxMana;
+        transform.Translate(dashDirection * status.speed * Time.fixedDeltaTime);
+        if (status.mana < 100)
+            status.mana += status.manaRegen;
     }
+
+    public void TakeDamage(float amount)
+    {
+        status.health -= amount;
+        healthBar.fillAmount = status.health / status.maxHealth;
+        if (status.health < 0)
+        {
+            Die();
+        }
+        manaBar.fillAmount = status.mana / status.maxMana;
+
+    }
+
+    public void Die()
+    {
+        Destroy(gameObject, 3f);
+    }
+
 }
