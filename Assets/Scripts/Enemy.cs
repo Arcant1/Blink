@@ -23,9 +23,14 @@ public class Enemy : MonoBehaviour
     public Image manaBar;
     public int totalItems = 0;
     public List<int> idList;
+    public AudioSource shootSound;
+    public AudioSource dashSound;
 
     public void Start()
     {
+        AudioSource[] audios = GetComponents<AudioSource>();
+        shootSound = audios[1];
+        dashSound = audios[0];
         idList = new List<int>();
         items = new Stack<Transform>();
     }
@@ -64,7 +69,7 @@ public class Enemy : MonoBehaviour
         if (nextDashTime < Time.time)
             if (mana > 50)
             {
-                //animation
+                dashSound.Play();
                 mana -= 50f;
                 manaBar.fillAmount = mana / 100f;
                 nextDashTime = Time.time + dashCooldownTime;
@@ -92,6 +97,7 @@ public class Enemy : MonoBehaviour
         if (nextFireTime < Time.time)
             if (mana > 80)
             {
+                shootSound.Play();
                 mana -= 30;
                 manaBar.fillAmount = mana / 100f;
                 GameObject fireball = Instantiate(spell, transform.position, Quaternion.identity);

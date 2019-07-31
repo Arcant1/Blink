@@ -14,16 +14,16 @@ public class Enemy_Fireball : MonoBehaviour
     {
         if (other.CompareTag("Level"))
         {
-            //animation
+            GetComponent<AudioSource>().Play();
             animationController.SetBool("Exploded", true);
-            Destroy(gameObject, .2f);
+            Destroy(gameObject, .4f);
         }
         if (other.CompareTag("Player"))
         {
-            //animation
+            GetComponent<AudioSource>().Play();
             animationController.SetBool("Exploded", true);
             other.GetComponent<Player>().TakeDamage(30f);
-            Destroy(gameObject, .2f);
+            Destroy(gameObject, .4f);
         }
 
     }

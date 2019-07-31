@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 
-
+[RequireComponent(typeof(AudioSource))]
 public class Player : MonoBehaviour
 {
     const float MAX_RANGE = 3f;
@@ -16,6 +16,8 @@ public class Player : MonoBehaviour
 
 
     public PlayerStatus status;
+    public AudioSource dashSound;
+    public AudioSource shootSound;
 
     [Header("Unity Struff")]
     public Image healthBar;
@@ -41,6 +43,9 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        AudioSource[] audios =GetComponents<AudioSource>();
+        shootSound = audios[0];
+        dashSound = audios[1];
         rb = this.GetComponent<Rigidbody2D>();
         rb.gravityScale = 0;
         rb.mass = 1f;
@@ -92,6 +97,7 @@ public class Player : MonoBehaviour
     {
         if (status.mana > 50)
         {
+            dashSound.Play();
             status.mana -= 50f;
             if (!WASD)
             {
@@ -114,6 +120,7 @@ public class Player : MonoBehaviour
     {
         if (status.mana > 30)
         {
+            shootSound.Play();
             animatorController.SetTrigger("Attack");
             status.mana -= 30;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -147,7 +154,7 @@ public class Player : MonoBehaviour
 
     public void Die()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(2);
 
     }
 

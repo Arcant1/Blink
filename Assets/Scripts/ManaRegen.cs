@@ -11,6 +11,8 @@ public class ManaRegen : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            GetComponent<AudioSource>().Play();
+
             StartCoroutine( PickUp(other) );
             
         }
