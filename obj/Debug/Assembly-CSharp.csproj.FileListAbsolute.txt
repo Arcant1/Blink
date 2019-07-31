@@ -274,3 +274,16 @@ C:\Users\kbza_\Documents\Blink\obj\Debug\Assembly-CSharp.csproj.CoreCompileInput
 C:\Users\kbza_\Documents\Blink\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\kbza_\Documents\Blink\obj\Debug\Assembly-CSharp.dll
 C:\Users\kbza_\Documents\Blink\obj\Debug\Assembly-CSharp.pdb
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\AstarPathfindingProject.pdb
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\PackageToolsEditor.pdb
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\AstarPathfindingProjectEditor.pdb
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\kbza_\Documents\Blink\Temp\bin\Debug\UnityEditor.UI.xml
